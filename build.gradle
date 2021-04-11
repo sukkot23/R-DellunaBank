@@ -42,5 +42,5 @@ spigot {
 }
 
 jar {
-    destinationDir new File("D:/User/CloverSeed/Minecraft/wd/plugins")
+    destinationDir new File("D:/Minecraft/minecraftServer/plugins")
 }
